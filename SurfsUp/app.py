@@ -42,7 +42,7 @@ def home():
     return (
         f"Welcome to Climate App Homepage <br/><br/>"
         f"Available Routes: <br/>"
-        f"precipitation <br/> stations <br/> tobs <br/> <start> <br/> <start>/<end>"
+        f"precipitation <br/> stations <br/> tobs <br/> input start date <br/> input start date/end date"
     )
 
 
